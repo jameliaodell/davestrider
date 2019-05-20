@@ -1,0 +1,24 @@
+{
+  "name": "dave",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "author": "Jaden O'Dell",
+  "license": "MIT",
+  "description": "Music bot/games bot",
+  "dependencies": {
+    "discord.js": "github:discordjs/discord.js",
+    "discord.js-commando": "^0.10.0",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^2.4.0",
+    "fs": "0.0.1-security",
+    "node-opus": "^0.3.1",
+    "opusscript": "0.0.6",
+    "prism-media": "^1.0.2",
+    "ytdl-core": "^0.29.2",
+    "ytdl-core-discord": "^1.0.3"
+  }
+}
